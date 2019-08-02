@@ -13,3 +13,20 @@
     width:0%;
     content:"";
   }
+
+  .mainHeader a:hover {
+    color : #e76c2a !important;
+  }
+
+  a:hover {
+    color : #e76c2a !important;
+  }
+
+  .btMenuHorizontal .menuPort > nav > ul > li {
+    padding: 0 30px 0 0 !important;
+  }
+
+
+  .btDarkSkin nav.woocommerce-pagination ul li a:focus, .btLightSkin .btDarkSkin nav.woocommerce-pagination ul li a:focus, .btDarkSkin.btLightSkin .btDarkSkin nav.woocommerce-pagination ul li a:focus, .btDarkSkin nav.woocommerce-pagination ul li a:hover, .btLightSkin .btDarkSkin nav.woocommerce-pagination ul li a:hover, .btDarkSkin.btLightSkin .btDarkSkin nav.woocommerce-pagination ul li a:hover, .btDarkSkin nav.woocommerce-pagination ul li a.next, .btLightSkin .btDarkSkin nav.woocommerce-pagination ul li a.next, .btDarkSkin.btLightSkin .btDarkSkin nav.woocommerce-pagination ul li a.next, .btDarkSkin nav.woocommerce-pagination ul li a.prev, .btLightSkin .btDarkSkin nav.woocommerce-pagination ul li a.prev, .btDarkSkin.btLightSkin .btDarkSkin nav.woocommerce-pagination ul li a.prev, .btDarkSkin nav.woocommerce-pagination ul li span.current, .btLightSkin .btDarkSkin nav.woocommerce-pagination ul li span.current, .btDarkSkin.btLightSkin .btDarkSkin nav.woocommerce-pagination ul li span.current {
+    background-color: rgb(240, 134, 96);
+  }
